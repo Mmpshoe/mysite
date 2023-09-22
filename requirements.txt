@@ -20,7 +20,7 @@ defer==1.0.4
 defusedxml==0.7.1
 distro==1.7.0
 dj-rest-auth==4.0.0
-Django==4.2.2
+Django==3.2.21
 django-allauth==0.52.0
 django-apscheduler==0.6.2
 django-cors-headers==4.0.0
