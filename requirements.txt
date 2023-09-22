@@ -74,7 +74,7 @@ PyJWT==2.6.0
 PyNaCl==1.5.0
 pyparsing==2.4.7
 reparted==1.2
-pyparted==3.12.0
+python-parted==1.1.1
 pytesseract==0.3.10
 python-apt==2.4.0+ubuntu1
 python-debian===0.1.43ubuntu1
