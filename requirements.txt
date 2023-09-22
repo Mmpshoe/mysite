@@ -52,7 +52,7 @@ netaddr==0.8.0
 netifaces==0.11.0
 numpy==1.21.6
 oauthlib==3.2.2
-onboard==1.4.1
+onboard.client==1.9.4
 opencv-python==4.7.0.72
 packaging==21.3
 pdf2image==1.16.3
