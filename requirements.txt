@@ -76,8 +76,8 @@ pyparsing==2.4.7
 reparted==1.2
 python-parted==1.0.17
 pytesseract==0.3.10
-python-apt==2.4.0+ubuntu1
-python-debian===0.1.43ubuntu1
+python-apt==0.7.8
+python-debian===0.1.49
 python-gnupg==0.4.8
 python-magic==0.4.24
 python-xlib==0.29
