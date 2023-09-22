@@ -37,7 +37,7 @@ httplib2==0.22.0
 idna==3.4
 ifaddr==0.2.0
 IMDbPY==2022.7.9
-importlib-metadata==6.8.0
+importlib-metadata==6.7.0
 jeepney==0.7.1
 keyring==23.5.0
 launchpadlib==1.10.16
