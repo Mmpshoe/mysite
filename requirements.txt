@@ -99,7 +99,7 @@ tldextract==3.1.2
 tzdata==2023.3
 tzlocal==5.0.1
 linux-drivers==0.0.3
-pyufw==0.0.1
+pyufw==0.0.3
 Unidecode==1.3.3
 urllib3==1.26.15
 wadllib==1.3.6
